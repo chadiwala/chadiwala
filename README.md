@@ -1,6 +1,6 @@
 # 🕸️ Hi, I'm Wala!
 
-*probably debugging somewhere in Gotham...* ☕️
+
 
 🎀 Information Systems student who loves turning messy problems into smart systems.
 
